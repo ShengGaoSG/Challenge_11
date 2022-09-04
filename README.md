@@ -1,3 +1,5 @@
+![SEAS-1141x523](https://user-images.githubusercontent.com/107383254/188329205-ed95e210-f5ac-49a8-82d3-1c492396a6d7.jpg)
+
 # Forecasting Net Prophet
 ---
 In this Challenge, I am playing the role of analyst at MercadoLibre, the most popular e-commerce site in Latin America. I will analyze the company's financial and user data to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
